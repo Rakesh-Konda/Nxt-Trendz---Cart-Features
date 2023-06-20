@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.checkout {
+  color: white;
+  background-color: blue;
+  width: 100px;
+  height: 30px;
+  border: 0px solid transparent;
+}
+.hl {
+  display: flex;
+  justify-content: right;
+  margin: 10px;
+}
+.ll {
+  display: flex;
+}
+.hh {
+  font-size: 20px;
+}
